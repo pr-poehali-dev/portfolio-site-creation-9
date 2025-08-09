@@ -207,7 +207,7 @@ const Index = () => {
               <CardContent className="space-y-3">
                 <div className="flex items-center space-x-3">
                   <Icon name="Mail" size={16} className="text-slate-600" />
-                  <span className="text-sm text-slate-700">m.ivanova@school15.ru</span>
+                  <span className="text-sm text-slate-700">saveliev.mister2018@yandex.ru</span>
                 </div>
                 <div className="flex items-center space-x-3">
                   <Icon name="Phone" size={16} className="text-slate-600" />
