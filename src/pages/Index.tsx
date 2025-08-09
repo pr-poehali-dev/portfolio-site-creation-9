@@ -41,7 +41,7 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div>
               <h1 className="text-4xl font-bold font-serif text-white mb-2">
-                Профессиональное портфолио педагога
+                Профессиональный сайт педагога
               </h1>
               <p className="text-slate-300 text-lg">
                 Савельев Владимир Сергеевич • Учитель русского языка и литературы • МАОУ СШ "Перспектива"
