@@ -48,9 +48,7 @@ const Index = () => {
               </p>
             </div>
             <div className="hidden md:flex items-center space-x-6">
-              <Badge variant="outline" className="bg-slate-800 text-white border-slate-600">
-                20+ лет опыта
-              </Badge>
+              <Badge variant="outline" className="bg-slate-800 text-white border-slate-600">15+ лет опыта</Badge>
               <Badge variant="outline" className="bg-slate-800 text-white border-slate-600">
                 Высшая категория
               </Badge>
